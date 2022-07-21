@@ -1,4 +1,4 @@
-# Ethers Simple Storage: A Solidity - Node.js - Ethers.js Application
+# Ethers Storage: A Simple Application
 
 A study project to learn how Blockchain works, and build a simple [Solidity](https://docs.soliditylang.org/en/v0.8.15/) application using [Node.js](https://nodejs.org/en/) and [Ethers.js](https://docs.ethers.io/v5/) library.
 
