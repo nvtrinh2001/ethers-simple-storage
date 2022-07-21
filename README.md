@@ -18,6 +18,12 @@ A study project on how Blockchain works. This simple application is built using 
 git clone git@github.com:nvtrinh2001/ethers-simple-storage.git
 ```
 
+**Installing dependencies**
+
+```
+yarn
+```
+
 **Compile Solidity files**
 
 ```
@@ -25,12 +31,6 @@ yarn compile
 ```
 
 **Preparation for deployment**
-
-- Install dependencies:
-
-```
-yarn
-```
 
 - Go to Alchemy website to get the RPC_URL HTTPS key.
 - Put the Alchemy key and your MetaMask private key in the .env file.
