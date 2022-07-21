@@ -18,7 +18,7 @@ A study project on how Blockchain works. This simple application is built using 
 git clone git@github.com:nvtrinh2001/ethers-simple-storage.git
 ```
 
-**Compile**
+**Compile Solidity files**
 
 ```
 yarn compile
